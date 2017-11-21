@@ -1,2 +1,3 @@
 # ERC20-Token-Template
-ERC20 token template, to be used ;)
+ERC20 token template.
+For Ethereum smart contracts.
